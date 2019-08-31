@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    background-image: url('../img/4k.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: #fff;
+}
